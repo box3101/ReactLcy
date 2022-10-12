@@ -3,8 +3,8 @@ import './css/style.css';
 function App() {
   return (
     <div className="App">
-      13131313131313
-      1515
+      131313131313131
+      15151414
     </div>
   );
 }
